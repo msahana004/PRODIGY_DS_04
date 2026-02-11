@@ -74,13 +74,8 @@ Histogram of polarity scores generated using TextBlob.
 
 ---
 
-### 5. Pie Chart of Sentiment Proportion
-Shows percentage share of each sentiment category.
-
----
-
 ## **📂 Project Structure**
-Prodigy_DS_Task4/ │ ├── Tweets.csv ├── task4_sentiment.ipynb └── task4_sentiment.py
+Task4/ │ ├── Tweets.csv ├── task4_SentimentAnalysis.ipynb └── task4_SentimentAnalysis.py
 
 ---
 
